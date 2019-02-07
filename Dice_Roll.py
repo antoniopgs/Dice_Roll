@@ -1,7 +1,6 @@
 import random
 
-cycle = True
-while cycle:
+while True:
     start = input("\nPress 1 to roll dice: ")
     if start == "1":
         cycle_2 = True
